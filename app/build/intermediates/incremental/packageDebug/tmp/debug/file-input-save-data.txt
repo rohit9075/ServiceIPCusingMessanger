@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Oct 27 12:06:39 IST 2018
+1.base=C\:\\Users\\Rohit Kumar\\Desktop\\ServiceInterprocess Communication\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Rohit Kumar\\Desktop\\ServiceInterprocess Communication\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+1.path=classes.dex
